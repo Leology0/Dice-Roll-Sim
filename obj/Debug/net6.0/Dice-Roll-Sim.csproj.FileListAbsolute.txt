@@ -1,0 +1,15 @@
+F:\C#\Dice-Roll-Sim\bin\Debug\net6.0\Dice-Roll-Sim.exe
+F:\C#\Dice-Roll-Sim\bin\Debug\net6.0\Dice-Roll-Sim.deps.json
+F:\C#\Dice-Roll-Sim\bin\Debug\net6.0\Dice-Roll-Sim.runtimeconfig.json
+F:\C#\Dice-Roll-Sim\bin\Debug\net6.0\Dice-Roll-Sim.dll
+F:\C#\Dice-Roll-Sim\bin\Debug\net6.0\Dice-Roll-Sim.pdb
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.csproj.AssemblyReference.cache
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.AssemblyInfoInputs.cache
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.AssemblyInfo.cs
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.csproj.CoreCompileInputs.cache
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.dll
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\refint\Dice-Roll-Sim.dll
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.pdb
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\Dice-Roll-Sim.genruntimeconfig.cache
+F:\C#\Dice-Roll-Sim\obj\Debug\net6.0\ref\Dice-Roll-Sim.dll
